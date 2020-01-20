@@ -1,0 +1,12 @@
+.UserInput {
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+.UserInput input {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(92, 121, 126);
+    padding: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
